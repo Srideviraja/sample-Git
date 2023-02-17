@@ -1,4 +1,9 @@
+echo "# gitpractice" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Srideviraja/gitpractice.git
+git push -u origin main
 
-sample-Git
-My first class 
-My team member added 
+I am getting this document review
